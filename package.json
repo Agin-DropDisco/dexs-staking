@@ -1,5 +1,5 @@
 {
-    "name": "dexswap-staking-distribution",
+    "name": "dexswap-staking",
     "version": "0.1.6",
     "description": "DexSwap-specific contracts suite to bootstrap staking-based reward campaigns (for liquidity mining).",
     "files": [
